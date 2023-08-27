@@ -1,0 +1,9 @@
+{
+    "cSpell.words": [
+        "etherparse"
+    ],
+    "rust-analyzer.linkedProjects": [
+        "./Cargo.toml",
+        "./Cargo.toml"
+    ]
+}
